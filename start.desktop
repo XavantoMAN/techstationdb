@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=Start
+Comment=Start programm
+Exec=python3 main.py
+Terminal=true
+Type=Application
+Categories=Utility:Development;
